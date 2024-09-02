@@ -1,0 +1,11 @@
+项目线上访问地址
+http://java.shuguangwl.com
+接口测试文档https://apifox.com/apidoc/shared-282625bd-319f-4253-b6fd-972657996730/api-135690628
+vue-cli前端代码
+demo7后端代码
+hangtian.sql数据库
+项目依赖
+JDK1.8
+MySQL5.7
+Mybatis2.4.1
+Vue-cli2
